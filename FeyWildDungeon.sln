@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeyWildDungeon", "FeyWildDungeon\FeyWildDungeon.csproj", "{DE27F9BC-95CF-4C7A-9C8B-6A9757256490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeyWildDungeon.UI", "FeyWildDungeonTests\FeyWildDungeon.UI.csproj", "{9111349F-8894-414C-BFC1-52A36AD1A41C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE27F9BC-95CF-4C7A-9C8B-6A9757256490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE27F9BC-95CF-4C7A-9C8B-6A9757256490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE27F9BC-95CF-4C7A-9C8B-6A9757256490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE27F9BC-95CF-4C7A-9C8B-6A9757256490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9111349F-8894-414C-BFC1-52A36AD1A41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9111349F-8894-414C-BFC1-52A36AD1A41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9111349F-8894-414C-BFC1-52A36AD1A41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9111349F-8894-414C-BFC1-52A36AD1A41C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04A987E6-7329-472E-9445-F05EA8689233}
+	EndGlobalSection
+EndGlobal

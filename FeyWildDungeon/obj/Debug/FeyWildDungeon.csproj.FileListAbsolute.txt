@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\FeyWildDungeon\FeyWildDungeon\obj\Debug\FeyWildDungeon.csproj.SuggestedBindingRedirects.cache
+C:\ElevenFiftyProjects\FeyWildDungeon\FeyWildDungeon\obj\Debug\FeyWildDungeon.csproj.CoreCompileInputs.cache
